@@ -6,5 +6,6 @@ Team Learning Projects
     <git checkout -b 分支名>
 2. main分支尽量不要上传个人学习资料，我们统一放我们的共享资源
 3. 个人代码管理使用push或者merge时注意分支选择，不要影响到main分支
+4. 问题讨论及问题备忘请在issues中记录
 
 ## 其他内容需要的话随时补充更新在README中，谢谢各位~
